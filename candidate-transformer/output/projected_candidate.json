@@ -1,0 +1,205 @@
+{
+    "full_name": "Mosra Harshith Reddy",
+    "primary_email": "harshithreddymosra@gmail.com",
+    "phone": "+919704745443",
+    "skills": [
+        "Java",
+        "Python",
+        "HTML/CSS",
+        "JavaScript",
+        "React.js",
+        "MySQL",
+        "RAG",
+        "LLMs",
+        "Natural Language Processing",
+        "Vector Embeddings",
+        "Nmap",
+        "Burp Suite",
+        "Metasploit",
+        "OWASP ZAP",
+        "Nikto",
+        "Wireshark",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "SQL",
+        "Docker"
+    ],
+    "experience": [
+        {
+            "company": "Institute Of Aeronautical Engineering, Hyderabad",
+            "title": "Summer Research Intern",
+            "start_date": "2025-04",
+            "end_date": "2025-06",
+            "summary": "• Designed and implemented a penetration testing framework using the five-phase methodology with tools like Nmap, Nikto, enum4linux, and Metasploit. Developed a custom CVSS-based vulnerability scoring model to prioritize threats. Enhanced risk-based mitigation and security assessment strategies."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Institute of Aeronautical Engineering",
+            "degree": "B.Tech in Computer Science(Cyber Security) CGPA: 9.27",
+            "field": null,
+            "graduation_year": 2027
+        },
+        {
+            "institution": "Vector Junior College",
+            "degree": "Intermediate Score: 969/1000",
+            "field": null,
+            "graduation_year": 2023
+        },
+        {
+            "institution": "Sri Vignan High School",
+            "degree": "SSC GPA: 10.0",
+            "field": null,
+            "graduation_year": 2021
+        }
+    ],
+    "overall_confidence": 1.0,
+    "provenance": [
+        {
+            "field": "full_name",
+            "source": "resume",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "email",
+            "source": "resume",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "phone",
+            "source": "resume",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "links",
+            "source": "resume",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "skills",
+            "source": "resume",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "education",
+            "source": "resume",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "experience",
+            "source": "resume",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "candidate_id",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "full_name",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "email",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "phone",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "headline",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "years_experience",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "skills",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "location",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "github",
+            "source": "recruiter_csv",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "candidate_id",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "full_name",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "email",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "phone",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "headline",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "years_experience",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "skills",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "location",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "links",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "projects",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "public_repos",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "followers",
+            "source": "github",
+            "extraction_method": "regex"
+        },
+        {
+            "field": "following",
+            "source": "github",
+            "extraction_method": "regex"
+        }
+    ]
+}
